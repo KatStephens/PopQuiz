@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e71e2e5ddedf37a468be523f28b43690
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questionText: {instanceID: 0}
+  - question: {instanceID: 0}
+  - defaultAnswerSprite: {fileID: 21300000, guid: ed8c6470dc52baa4282ada6f5fc30145, type: 3}
+  - correctAnswerSprite: {fileID: 21300000, guid: c572ad653f553c84a9c78a8924effb08, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

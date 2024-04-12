@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 1
   m_EditorClassIdentifier: 
   question: Who is the villain in The Little Mermaid?
+  answers:
+  - Cruella
+  - Ursula
+  - Magenta
+  - Yolanda
+  correctAnswerIndex: 1
